@@ -5,12 +5,16 @@ This Python project focuses on analyzing HR (Human Resources) data to gain insig
 INTRODUCTION OF PROJECT
 
 TARGET COLUMN == ATTRITION
+
 -ATTRITION :-Attrition is the departure of employees from the organization for any reason or
 in simple words we can say that employees who want to leave the company.
+
 -ATTRITION "YES" :- Employees wants to leave the company.
+
 -ATTRITION "NO" :- Employees don't want to leave.
 
 PROBLEM STATEMENT
+
 This project aims to uncover the factors contributing to employee
 attrition. Through analysis of various dataset features, we seek to
 understand their impact on attrition rates within the organization.
